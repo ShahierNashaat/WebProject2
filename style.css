@@ -1,0 +1,38 @@
+body{
+    background: url(services.jpg) no-repeat;
+    background-size: cover;
+}
+.frm{
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    border-radius: 6px;
+}
+.slekt{
+    width: 320px;
+    height: 29px;
+    padding-left: 10px;
+    font-family: Arial;
+    background-color: DodgerBlue;
+    color: white;
+    border: 1px solid transparent;
+    font-size: 20px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: #2ECC71;
+    border: thin;
+    border-color: #17202A;
+    color: #FDFEFE;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.txt{
+    width: 300px;
+    height: 30px;
+    border-color: #7778C3;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 5px;
+}
